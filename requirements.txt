@@ -1,0 +1,10 @@
+numpy==1.15
+scipy
+scikit-image
+pathlib
+tensorflow_gpu==1.14.0
+grpcio
+tensorflow-serving-api==1.14.0
+opencv-python
+gast==0.2.2
+dlib
