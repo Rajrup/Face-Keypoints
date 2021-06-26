@@ -28,7 +28,7 @@ pip install -r requirements.txt
 - Tensorflow Pipeline:
 
     ```python
-    python pipeline
+    python pipeline.py
     ```
 
 - Tensorflow Serving Pipeline: TODO
