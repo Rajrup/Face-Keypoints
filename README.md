@@ -32,6 +32,7 @@ pip install -r requirements.txt
     ```
 
 - Tensorflow Serving Pipeline: TODO
+- Output in the ```media``` folder. Check the file ```output.avi``` for keypoints. 
 
 ## Components
 
