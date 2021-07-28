@@ -39,5 +39,5 @@ pip install -r requirements.txt
 One module's output will go to the next one
 
 - Video Reader
-- Face Detection ([Face](https://github.com/yeephycho/tensorflow-face-detection)
+- Face Detection ([Face](https://github.com/yeephycho/tensorflow-face-detection))
 - Key Point Extraction ([PRNet](https://github.com/YadiraF/PRNet))
